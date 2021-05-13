@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/riyasai22/stats-preview-card-component)
+- Live Site URL: [Live Site](https://riyasai22.github.io/stats-preview-card-component/index.html)
 
 ## My process
 
