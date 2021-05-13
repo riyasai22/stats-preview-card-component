@@ -31,4 +31,4 @@ Users should be able to:
 I learned to apply flexbox and make the web page responsive.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/riyasai22)
+- Frontend Mentor - [@riyasai22](https://www.frontendmentor.io/profile/riyasai22)
